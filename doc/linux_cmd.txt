@@ -1,0 +1,2 @@
+# remove a directory recursively.
+rm -R <DIR> 
