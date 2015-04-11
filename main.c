@@ -1,4 +1,3 @@
-
 void printSomething();
 void allPerm(int n, int i);
 
